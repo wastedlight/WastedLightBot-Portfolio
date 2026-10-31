@@ -1,10 +1,6 @@
 # WastedLight Bot
 
 <p align="center">
-  <img src="screenshots/wastedlight-banner.png" alt="WastedLight Bot" width="100%" />
-</p>
-
-<p align="center">
   **More than a chat bot. A management platform for streaming communities.**
 </p>
 
