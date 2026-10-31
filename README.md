@@ -1,102 +1,139 @@
 # WastedLight Bot
 
 <p align="center">
-  <img src="screenshots/wastedlight-banner.png" alt="WastedLight Bot Banner" width="100%" />
+  <img src="screenshots/wastedlight-banner.png" alt="WastedLight Bot" width="100%" />
 </p>
 
 <p align="center">
-  <strong>A community bot built to bring automation, interaction and custom features to live streaming.</strong>
+  **More than a chat bot. A management platform for streaming communities.**
 </p>
 
 <p align="center">
   <a href="https://wastedlightbot.com">
-    <img src="https://img.shields.io/badge/Website-wastedlightbot.com-77E5FC?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-wastedlightbot.com-77E5FC?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
-  <img src="https://img.shields.io/badge/Platform-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-  <img src="https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Platform-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge" />
 </p>
 
 ---
 
-## About
+## About the Project
 
-**WastedLight Bot** is a custom-built community bot designed to provide streamers with useful tools, interactive features and channel management functionality.
+**WastedLight Bot** is an independently developed Twitch community bot and web-based management platform.
 
-The project focuses on making community management easier while giving streamers the flexibility to customise their bot experience.
+Designed to give streamers greater control over their communities, the platform combines interactive bot functionality with a central dashboard for managing commands, engagement features, channel settings and team access.
 
-Built as an independent software project, WastedLight Bot combines bot functionality with a web-based management experience.
+Rather than relying entirely on chat commands, WastedLight Bot provides a dedicated interface where channel owners and authorised team members can manage their bot.
 
-## Features
+## Key Features
 
-- **Twitch Integration** — Connects with Twitch communities and live channels.
-- **Custom Commands** — Interactive bot commands and channel-specific functionality.
-- **Channel Management** — Manage bot functionality across supported channels.
-- **Web Dashboard** — A central place to manage and configure bot features.
-- **Customisation** — Features designed to support different streamer requirements.
-- **Extensibility** — Built with future platform integrations and additional functionality in mind.
+### Dashboard & Analytics
+
+A central dashboard providing an overview of channel activity and community engagement.
+
+- Viewer and follower statistics
+- Points awarded and community activity
+- Bot status monitoring
+- Points leaderboards
+- Watch-time leaderboards
+- Message statistics
+
+### Command Management
+
+A configurable command management system allowing channel owners to control how their bot behaves.
+
+- Default and custom commands
+- Custom command descriptions
+- Individual permission requirements
+- Configurable cooldowns
+- Enable and disable controls
+- Command searching and management
+
+### Team & Permissions
+
+A team management system allowing channel owners to delegate dashboard access without sharing their account.
+
+- Invite team members using their Twitch username
+- Role-based access control
+- Editor, Helper and Viewer roles
+- Separate permissions for different management tasks
+- Dashboard access independent of Twitch moderator status
+
+### Community Engagement
+
+Tools designed to encourage community participation and interaction.
+
+- Points and rewards
+- Leaderboards
+- Watch-time tracking
+- Interactive commands
+- Community-focused features
+
+## Screenshots
+
+### Dashboard
+
+The main dashboard provides an overview of channel statistics, community engagement and bot activity.
+
+![WastedLight Bot Dashboard](screenshots/dashboard.png)
+
+### Command Management
+
+Manage default and custom commands, configure permissions, set cooldowns and control which commands are enabled.
+
+![WastedLight Bot Commands](screenshots/commands.png)
+
+### Team Management
+
+Give trusted team members access to channel management tools through configurable roles and permissions.
+
+![WastedLight Bot Team Management](screenshots/channel-management.png)
 
 ## Platform Support
 
-| Platform | Status |
+| Platform | Availability |
 |---|---|
 | Twitch | Available |
 | Kick | In development |
 | YouTube | In development |
 
-Platform availability and features may vary as development continues.
-
-## Screenshots
-
-<p align="center">
-  <strong>Dashboard</strong><br />
-  <img src="screenshots/dashboard.png" alt="WastedLight Bot Dashboard" width="90%" />
-</p>
-
-<p align="center">
-  <strong>Bot Features</strong><br />
-  <img src="screenshots/features.png" alt="WastedLight Bot Features" width="90%" />
-</p>
-
-<p align="center">
-  <strong>Channel Management</strong><br />
-  <img src="screenshots/channel-management.png" alt="WastedLight Bot Channel Management" width="90%" />
-</p>
-
 ## Technology
 
-WastedLight Bot is developed using a combination of technologies for bot functionality, backend services, integrations and web-based management.
-
-The project includes experience with:
+WastedLight Bot is an independently developed software project involving:
 
 - JavaScript
 - Node.js
-- Twitch integrations and APIs
+- Twitch API integrations
+- Backend development
 - Database-backed functionality
-- Web dashboards
-- API integrations
+- Web dashboard development
+- Role-based access management
 
 ## Project Links
 
 - **Website:** https://wastedlightbot.com
-- **Developer GitHub:** https://github.com/wastedlight
+- **GitHub:** https://github.com/wastedlight
 
-## Development
+## About This Repository
 
-WastedLight Bot is an independently developed project and continues to evolve as new features and platform integrations are explored.
+This repository is a public portfolio showcase of WastedLight Bot.
 
-This repository serves as a public portfolio showcase. The application's source code, internal infrastructure and private configuration are not included.
+It contains project documentation and selected screenshots. The application's source code, internal infrastructure and private configuration are not included.
+
+WastedLight Bot is independently developed and maintained by WastedLight.
 
 ## Contact
 
-Interested in the project, have a question or want to discuss development?
+Interested in the project or want to discuss development?
 
-**Discord:** `_wastedlight`
-
-**GitHub:** [@wastedlight](https://github.com/wastedlight)
+- GitHub: [@wastedlight](https://github.com/wastedlight)
+- Discord: `_wastedlight`
 
 ---
 
 <p align="center">
-  <strong>WastedLight Bot</strong><br />
+  **WastedLight Bot**
+  <br />
   <i>Building better communities, one feature at a time.</i>
 </p>
